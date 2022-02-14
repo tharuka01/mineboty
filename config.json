@@ -1,12 +1,11 @@
 {
-    "ip": "",
-    "port": "",
+    "ip": "tharuka02.aternos.me",
+    "port": "19321",
     "name": "katy",
     "auto-night-skip": "false",
-    "prefix": "",
-    "login-enabled": "true",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "",
+    "prefix": "a!",
+    "token" : "OTQyNjY5OTU1OTA2Nzk3NTg4.Ygn3zw.FxLBBJbBZm4XUDexQmvyqJIxCJo",
+    "channelid" : "850209502271242320"
+    "loginmsg": "hi machanla",
     "auto-reconnect": "true"
 }
